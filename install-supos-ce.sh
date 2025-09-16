@@ -70,5 +70,5 @@ git clone https://github.com/FREEZONEX/supOS-CE.git
 
 # Step 5: Run the installation script
 echo "🚀 Running installation script..."
-bash supOS-CE/bin/startup.sh
+bash supOS-CE/bin/install.sh
 
